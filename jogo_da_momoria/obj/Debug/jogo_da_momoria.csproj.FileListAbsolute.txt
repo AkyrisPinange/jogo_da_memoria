@@ -1,0 +1,9 @@
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\bin\Debug\jogo_da_momoria.exe.config
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\bin\Debug\jogo_da_momoria.exe
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\bin\Debug\jogo_da_momoria.pdb
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\obj\Debug\jogo_da_momoria.csprojAssemblyReference.cache
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\obj\Debug\jogo_da_momoria.Form1.resources
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\obj\Debug\jogo_da_momoria.Properties.Resources.resources
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\obj\Debug\jogo_da_momoria.csproj.GenerateResource.cache
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\obj\Debug\jogo_da_momoria.exe
+C:\Users\akyri\source\repos\jogo_da_momoria\jogo_da_momoria\obj\Debug\jogo_da_momoria.pdb
